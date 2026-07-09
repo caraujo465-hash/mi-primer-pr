@@ -4,7 +4,7 @@ Este es un repositorio de práctica para aprender el flujo de trabajo de Pull Re
 
 ## Sobre este proyecto
 
-Este repositorio contien un ejemplo simple para practicar cómo:
+Este repositorio contiene un ejemplo simple para practicar cómo:
 
 1. Crear una rama
 2. Hacer un cambio
